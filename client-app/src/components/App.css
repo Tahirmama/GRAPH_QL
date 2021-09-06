@@ -1,0 +1,14 @@
+
+.Butt{
+  background-color:black;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+}
+.Butt:hover{
+color:black;
+background-color: white;
+}
